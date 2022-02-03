@@ -1,0 +1,1 @@
+Date and time: 03/02/2022 21:07:29, name: rate_lecturer, args: (<__main__.Student object at 0x00000261D411BC70>, <__main__.Lecturer object at 0x00000261D411BC10>, 'Python', 9), kwargs: {}, result: Ошибка
