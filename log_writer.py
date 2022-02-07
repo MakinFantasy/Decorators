@@ -11,5 +11,5 @@ def log_writer(some_func):
 		with open("logs.txt", 'w', encoding = 'utf-8') as f:
 			f.write(res)
 			f.close()
-		return "Логи успешно обновлены"
+		return result
 	return new_func

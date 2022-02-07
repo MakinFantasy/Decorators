@@ -13,6 +13,6 @@ def log_writer(directory, file_name):
 			with open(file, 'w', encoding = 'utf-8') as f:
 				f.write(res)
 				f.close()
-			return "Логи успешно обновлены"
+			return result
 		return new_func
 	return wrap
